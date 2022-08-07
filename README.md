@@ -1,1 +1,1 @@
-The project talks about printf. It was a group project. 
+This is a pair project
