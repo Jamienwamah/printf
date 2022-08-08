@@ -14,7 +14,7 @@ printer _get_printer(const char *specifier)
                 {"c", _print_char},
                 {"s", _print_str},
                 {NULL, NULL}
-        }
+        };
 
         for (i = 0; printers[i].specifier != NULL; i++)
         {
